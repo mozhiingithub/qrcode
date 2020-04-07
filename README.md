@@ -1,5 +1,5 @@
 # qrcode
-qrcode是一个基于go-qrcode的文本转二维码工具。
+qrcode是一个基于[go-qrcode](https://github.com/skip2/go-qrcode)的文本转二维码工具。
 ## 使用
 ```
 go run qrcode.go
